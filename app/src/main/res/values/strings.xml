@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nama">DEMITRIES BASKHARA</string>
+    <string name="nim">123180137</string>
+    <string name="jhs">Bopkri 3 Junior High School</string>
+    <string name="shs">Bopkri 1 Senior High School</string>
+    <string name="univ">UPN"V"Yogyakarta</string>
+    <string name="jhsgraduate">2015</string>
+    <string name="shsgraduate">2018</string>
+    <string name="univyear">Now</string>
+    <string name="overview">Hard-working web developer with a flair for creating elegant solutions in the least amount of time. Developed an ecommerce webapp, customer web portal, documentary launch website, and donations webapp for a local charity. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.</string>
+</resources>
